@@ -1,3 +1,5 @@
+##Python > Spiders
+
 ###getdoubanbook.py
 
 抓取页面 book.douban.com/tag/web 的 Python 脚本
@@ -36,6 +38,21 @@ TODO
 
 使用 requests re bs4
 
+## Shell
+
+###cpvim
+
+打开任意路径文件, 切换到同样路径再打开文件.
+
+###mountwin
+
+加载 windows 系统硬盘到 /media/\(winc, wind, wine\)
+
+###setxrand
+
+awesome 窗口管理下, 设置双屏幕显示.
+
 ###come soon
 
+update 2014-11-06
 update 2014-10-10
