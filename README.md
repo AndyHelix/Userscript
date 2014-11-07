@@ -52,6 +52,10 @@ TODO
 
 awesome 窗口管理下, 设置双屏幕显示.
 
+###x
+
+x <gui soft> 防止图形界面软件占用终端输出信息
+
 ###come soon
 
 update 2014-11-06
