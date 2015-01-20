@@ -24,7 +24,7 @@ xsrf = pattern_xsrf.findall(g_xsrf_data)
 d_xsrf = xsrf[0]
 print d_xsrf
 
-data = {"_xsrf":d_xsrf,"rememberme":'y',"email":'yssqcbq@sohu.com',"password":'3128014utc'}
+data = {"_xsrf":d_xsrf,"rememberme":'y',"email":'youremail@example.com',"password":'yourpassword'}
 
 s = requests.Session()
 
