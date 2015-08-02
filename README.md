@@ -6,7 +6,9 @@
 
 环境 2.7.5 
 
-使用 urllib2 re bs4
+使用 urllib2 re bs4Downloading http://netstorage.unity3d.com/unity/afd2369b692a/Windows64EditorInstaller/UnitySetup64.exe
+
+
 
 update 2014-10-07
 
