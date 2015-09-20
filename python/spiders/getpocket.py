@@ -20,7 +20,7 @@ form_check = re.findall(r'name="form_check" value="(\S+)"',s_get.text, re.S)
 
 print form_check
 
-data = {"form_check":form_check,"feed_id":'1005534145@qq.com',"password":'3128014',"route":'',"source":"email","source_page":"/","is_ajax":1}
+data = {"form_check":form_check,"feed_id":'youremail',"password":'yourpasswod',"route":'',"source":"email","source_page":"/","is_ajax":1}
 
 login_url = base_url + "login_process.php"
 
